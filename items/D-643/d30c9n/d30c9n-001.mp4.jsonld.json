@@ -13,9 +13,6 @@
     "schema:VideoObject",
     "schema:CreativeWork"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../d30c9n-001-stream"
-  },
   "schema:position": "001",
   "ebucore:filename": "d30c9n-001.mp4",
   "ebucore:hasMimeType": "video/mp4"

@@ -13,9 +13,6 @@
     "schema:VideoObject",
     "schema:CreativeWork"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../d37s6t-731-stream"
-  },
   "ebucore:filename": "d37s6t-731.mpg",
   "ebucore:hasMimeType": "video/mpeg"
 }

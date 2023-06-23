@@ -13,9 +13,6 @@
     "schema:VideoObject",
     "schema:CreativeWork"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../d34046-850-stream"
-  },
   "schema:position": 850,
   "ebucore:filename": "d34046-850.mp4",
   "ebucore:hasMimeType": "video/mp4"

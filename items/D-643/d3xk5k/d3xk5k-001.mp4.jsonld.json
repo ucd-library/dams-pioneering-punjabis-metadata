@@ -13,9 +13,6 @@
     "schema:VideoObject",
     "schema:CreativeWork"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../d3xk5k-001-stream"
-  },
   "schema:position": "001",
   "ebucore:filename": "d3xk5k-001.mp4",
   "ebucore:hasMimeType": "video/mp4"

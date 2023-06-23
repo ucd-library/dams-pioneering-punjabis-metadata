@@ -13,9 +13,6 @@
     "schema:VideoObject",
     "schema:CreativeWork"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../d3k88h-H264_854x480-307-stream"
-  },
   "schema:position": 307,
   "ebucore:filename": "d3k88h-H264_854x480-307.mp4",
   "ebucore:hasMimeType": "video/mp4"

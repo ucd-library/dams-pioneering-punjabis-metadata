@@ -13,9 +13,6 @@
     "schema:VideoObject",
     "schema:CreativeWork"
   ],
-  "schema:associatedMedia": {
-    "@id": "@base:../d3361t-839-stream"
-  },
   "schema:position": 839,
   "ebucore:filename": "d3361t-839.mp4",
   "ebucore:hasMimeType": "video/mp4"
