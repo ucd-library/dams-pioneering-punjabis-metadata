@@ -1,0 +1,140 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0801355",
+    "http://schema.org/name": "Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0835818",
+    "http://schema.org/name": "Bombings"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0859787",
+    "http://schema.org/name": "Christmas"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0861909",
+    "http://schema.org/name": "Citizenship"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0902499",
+    "http://schema.org/name": "Education"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0908690",
+    "http://schema.org/name": "Emigration and immigration"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0921741",
+    "http://schema.org/name": "Fasts and feasts"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0923329",
+    "http://schema.org/name": "Festivals"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0936223",
+    "http://schema.org/name": "Funeral rites and ceremonies"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0942310",
+    "http://schema.org/name": "Ghadr movement"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0949488",
+    "http://schema.org/name": "Gurmukhi alphabet"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0957121",
+    "http://schema.org/name": "Hinduism"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0963285",
+    "http://schema.org/name": "Human rights"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1010443",
+    "http://schema.org/name": "Marriage"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1052139",
+    "http://schema.org/name": "Panjabi language"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1052822",
+    "http://schema.org/name": "Parades"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1067691",
+    "http://schema.org/name": "Poetry--topic"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1093763",
+    "http://schema.org/name": "Religion"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1095065",
+    "http://schema.org/name": "Republic Day (India)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1112794",
+    "http://schema.org/name": "September 11 Terrorist Attacks, 2001"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1118401",
+    "http://schema.org/name": "Sikh pilgrims and pilgrimages"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1118413",
+    "http://schema.org/name": "Sikhism"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1118452",
+    "http://schema.org/name": "Sikhs--Politics and government"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1152956",
+    "http://schema.org/name": "Torture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1202652",
+    "http://schema.org/name": "India--Punjab"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1210276",
+    "http://schema.org/name": "India"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214190",
+    "http://schema.org/name": "California--Yolo County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214273",
+    "http://schema.org/name": "California--Solano County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1353944",
+    "http://schema.org/name": "Partition of India (1947)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423794",
+    "http://schema.org/name": "Diaries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423828",
+    "http://schema.org/name": "Poetry--form"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1754512",
+    "http://schema.org/name": "Sikh temples"
+  }
+]

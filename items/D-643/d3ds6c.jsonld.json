@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1210276"
+  },
+  "schema:description": "Mr. and Mrs. Randhawa at a formal event in Delhi. From the personal records of Savitri Randhawa.",
+  "schema:identifier": [
+    "D-643",
+    "ark:/87293/d3ds6c"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Narinder and Savitri Randhawa older at an event",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "1980s"
+}

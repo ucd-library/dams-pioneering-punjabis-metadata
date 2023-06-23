@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:NewsArticle",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1052822"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118413"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1980-11-07"
+  },
+  "schema:description": "Article about the Yuba City Sikh Parade for Nagar Kirtan in the Appeal Democrat. From the personal records of Hari Singh Everest.",
+  "schema:identifier": [
+    "D-643",
+    "ark:/87293/d3f888"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Sikhs Giant Yuba Sutter Parade Sunday",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

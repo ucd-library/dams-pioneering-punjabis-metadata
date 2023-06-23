@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Article",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0908690"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1118413"
+    }
+  ],
+  "schema:creator": "Singh, J. P.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1972-12-01"
+  },
+  "schema:description": "Adapted by Ms. J.P. Singh from a Narrative by Sardar Puna Singh, her father. From the personal records of Hari Singh Everest.",
+  "schema:identifier": [
+    "D-643",
+    "ark:/87293/d3fp4w"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "My Early Years in America",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

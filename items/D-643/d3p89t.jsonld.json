@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:NewsArticle",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    "Youth",
+    {
+      "@id": "http://id.worldcat.org/fast/0908690"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1991-08-30"
+  },
+  "schema:description": "Article about Hari Singh Everest in India-West. From the personal records of Hari Singh Everest.",
+  "schema:identifier": [
+    "D-643",
+    "ark:/87293/d3p89t"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Youth Leader",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

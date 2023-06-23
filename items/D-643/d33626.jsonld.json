@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Book",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/0801355"
+  },
+  "schema:description": "Selection of diary entries related to Punjabi workers between 1907-1918. George Pierce Jr relied heavily on Punjabi agricultural laborers for their services as farmhands on his almond orchard in Davisville, CA. The first Punjabi farmers arrived in the spring of 1907 to work on his farms. One of the Punjabi laborers, Munsha Singh, became the linchpin of the Pierce farms, recruiting Punjabis from all over northern California and in helping to manage the farm operations. Munsha Singh also served as the Secretary for the Gadar Party, the revolutionary party that sought to overthrow British rule in India that was headquartered in San Francisco, CA.",
+  "schema:identifier": [
+    "ark:/87293/d33626",
+    "D-643"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "George W. Pierce Jr.'s Diary",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "1907-1918"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "http://www.productontology.org/id/Label",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/0801355"
+  },
+  "schema:description": "Product label for Fay Elberta peaches grown and picked by Jas W. Smith in Modesto, California and by Heggblade-Maaguleas Co. From the Forbes (Jack D.) Collection; UC Davis Library, Archives and Special Collections.",
+  "schema:identifier": [
+    "D-643",
+    "ark:/87293/d3705h"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Span Brand Fay Elbertas",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}
