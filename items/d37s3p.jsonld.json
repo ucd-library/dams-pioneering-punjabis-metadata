@@ -23,8 +23,7 @@
   },
   "schema:description": "Poem for poetry contest in World's Most Treasured Poems. From the personal records of Hari Singh Everest.",
   "schema:identifier": [
-    "ark:/87293/d37s3p",
-    "D-643"
+    "ark:/87293/d37s3p"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

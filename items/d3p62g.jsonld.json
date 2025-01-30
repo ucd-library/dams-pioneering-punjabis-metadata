@@ -23,8 +23,7 @@
   },
   "schema:description": "Ted Sibia picks peaches in Yuba City, California. From the personal records of Ted and Manjeet Sibia.",
   "schema:identifier": [
-    "ark:/87293/d3p62g",
-    "D-643"
+    "ark:/87293/d3p62g"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

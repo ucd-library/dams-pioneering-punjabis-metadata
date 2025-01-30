@@ -23,8 +23,7 @@
   },
   "schema:description": "Man sings on stage with backup dancers. From the personal records of Jasbir Singh Kang.",
   "schema:identifier": [
-    "ark:/87293/d3b911",
-    "D-643"
+    "ark:/87293/d3b911"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

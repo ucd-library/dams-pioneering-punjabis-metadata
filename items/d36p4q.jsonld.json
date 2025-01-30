@@ -16,8 +16,7 @@
   ],
   "schema:description": "Bombay grocery store. Courtesy of the California History Room, California State Library, Sacramento, California.",
   "schema:identifier": [
-    "ark:/87293/d36p4q",
-    "D-643"
+    "ark:/87293/d36p4q"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

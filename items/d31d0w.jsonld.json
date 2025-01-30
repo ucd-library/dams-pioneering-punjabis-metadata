@@ -19,8 +19,7 @@
   },
   "schema:description": "Horses are connected to a cart as it is loaded. From The Pierce Family Papers; UC Davis Library, Archives and Special Collections.",
   "schema:identifier": [
-    "ark:/87293/d31d0w",
-    "D-643"
+    "ark:/87293/d31d0w"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

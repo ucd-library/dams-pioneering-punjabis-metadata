@@ -19,8 +19,7 @@
   },
   "schema:description": "Offical Yolo County Map. From the personal records of David Rumsey.",
   "schema:identifier": [
-    "ark:/87293/d3xw2j",
-    "D-643"
+    "ark:/87293/d3xw2j"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -23,8 +23,7 @@
   },
   "schema:description": "Kids up on top playing. From the personal records of David Rai.",
   "schema:identifier": [
-    "ark:/87293/d30w25",
-    "D-643"
+    "ark:/87293/d30w25"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

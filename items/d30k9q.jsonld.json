@@ -16,8 +16,7 @@
   ],
   "schema:description": "Road Map. Courtesy of Sutter County Museum.",
   "schema:identifier": [
-    "ark:/87293/d30k9q",
-    "D-643"
+    "ark:/87293/d30k9q"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

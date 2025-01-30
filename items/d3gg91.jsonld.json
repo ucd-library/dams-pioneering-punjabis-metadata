@@ -19,8 +19,7 @@
   },
   "schema:description": "Group poses for the camera behind the coffin at funeral. Courtesy of Punjabi American Heritage Society.",
   "schema:identifier": [
-    "ark:/87293/d3gg91",
-    "D-643"
+    "ark:/87293/d3gg91"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

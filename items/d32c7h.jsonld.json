@@ -23,8 +23,7 @@
   },
   "schema:description": "Letter of acceptance from Department of Genetics at U.C. Davis. From the personal records of Gurdev Khush.",
   "schema:identifier": [
-    "ark:/87293/d32c7h",
-    "D-643"
+    "ark:/87293/d32c7h"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

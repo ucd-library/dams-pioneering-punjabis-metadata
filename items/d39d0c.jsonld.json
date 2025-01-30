@@ -23,8 +23,7 @@
   },
   "schema:description": "Boy plays instrument in tune with the national anthem. From the personal records of Jasbir Singh Kang.",
   "schema:identifier": [
-    "ark:/87293/d39d0c",
-    "D-643"
+    "ark:/87293/d39d0c"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

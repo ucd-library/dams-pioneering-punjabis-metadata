@@ -20,8 +20,7 @@
   },
   "schema:description": "World Food Prize awarded to Dr. Gurdev Khush. From the personal records of Gurdev Khush.",
   "schema:identifier": [
-    "ark:/87293/d3ts3z",
-    "D-643"
+    "ark:/87293/d3ts3z"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

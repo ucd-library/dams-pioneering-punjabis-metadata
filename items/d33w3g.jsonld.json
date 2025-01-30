@@ -23,8 +23,7 @@
   },
   "schema:description": "Group photo including Everest taken at Tierra-Buena Temple. From the personal records of Hari Singh Everest.",
   "schema:identifier": [
-    "ark:/87293/d33w3g",
-    "D-643"
+    "ark:/87293/d33w3g"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

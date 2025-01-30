@@ -23,8 +23,7 @@
   },
   "schema:description": "Letter to the Editor by Ernie Albrecht. From the personal records of Hari Singh Everest.",
   "schema:identifier": [
-    "ark:/87293/d3f01v",
-    "D-643"
+    "ark:/87293/d3f01v"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -19,8 +19,7 @@
   },
   "schema:description": "Placer Country Peaches -- Best in the World. Courtesy of the California History Room, California State Library, Sacramento, California.",
   "schema:identifier": [
-    "ark:/87293/d3qp4c",
-    "D-643"
+    "ark:/87293/d3qp4c"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
