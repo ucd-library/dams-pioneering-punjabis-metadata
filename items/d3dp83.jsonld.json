@@ -19,8 +19,7 @@
   },
   "schema:description": "Men drink at a small gathering. From the personal records of Tumber Family.",
   "schema:identifier": [
-    "ark:/87293/d3dp83",
-    "D-643"
+    "ark:/87293/d3dp83"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

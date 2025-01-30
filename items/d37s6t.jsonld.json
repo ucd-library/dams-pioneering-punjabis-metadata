@@ -26,8 +26,7 @@
   },
   "schema:description": "Dr. Kang interviews Kartar Dhillon. From the personal records of Jasbir Singh Kang.",
   "schema:identifier": [
-    "ark:/87293/d37s6t",
-    "D-643"
+    "ark:/87293/d37s6t"
   ],
   "schema:image": {
     "@id": "@base:/d37s6t-731.png"

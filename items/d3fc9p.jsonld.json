@@ -20,8 +20,7 @@
   },
   "schema:description": "Article about Bob Baldev Singh. Courtesy of Punjabi American Heritage Society.",
   "schema:identifier": [
-    "ark:/87293/d3fc9p",
-    "D-643"
+    "ark:/87293/d3fc9p"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

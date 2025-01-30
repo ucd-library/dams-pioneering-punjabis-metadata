@@ -27,8 +27,7 @@
   },
   "schema:description": "Handwritten document stating intent to merge the Yuba Sutter and Marysville Indian societies, including list of names. From the personal records of David Rai.",
   "schema:identifier": [
-    "ark:/87293/d36c7r",
-    "D-643"
+    "ark:/87293/d36c7r"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

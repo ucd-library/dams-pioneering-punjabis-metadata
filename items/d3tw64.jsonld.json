@@ -16,8 +16,7 @@
   ],
   "schema:description": "Postcard of the Feather River. Courtesy of Sutter County Museum.",
   "schema:identifier": [
-    "ark:/87293/d3tw64",
-    "D-643"
+    "ark:/87293/d3tw64"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

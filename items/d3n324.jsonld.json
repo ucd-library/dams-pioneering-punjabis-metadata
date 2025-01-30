@@ -28,8 +28,7 @@
   },
   "schema:description": "Article about Hari Singh Everest by a Staff Writer for India Abroad. From the personal records of Hari Singh Everest.",
   "schema:identifier": [
-    "ark:/87293/d3n324",
-    "D-643"
+    "ark:/87293/d3n324"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

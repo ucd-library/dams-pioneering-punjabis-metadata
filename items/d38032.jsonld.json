@@ -23,8 +23,7 @@
   },
   "schema:description": "Photo reads: Gurdit Singh (1877-1937), Indup(?) Singh (1887 - 1937), Tara Singh (18?? - 1937), Oct. 5, 1937, Stockton, Calif. Courtesy of Punjabi American Heritage Society.",
   "schema:identifier": [
-    "ark:/87293/d38032",
-    "D-643"
+    "ark:/87293/d38032"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

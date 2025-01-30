@@ -24,8 +24,7 @@
   },
   "schema:description": "Use of IRRI's improved germplasm internationally. From the personal records of Gurdev Khush.",
   "schema:identifier": [
-    "ark:/87293/d3q300",
-    "D-643"
+    "ark:/87293/d3q300"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

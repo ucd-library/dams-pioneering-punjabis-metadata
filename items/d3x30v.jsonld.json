@@ -23,8 +23,7 @@
   },
   "schema:description": "Poonians. From the personal records of David Rai.",
   "schema:identifier": [
-    "ark:/87293/d3x30v",
-    "D-643"
+    "ark:/87293/d3x30v"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
