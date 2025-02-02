@@ -13,7 +13,7 @@
     "schema:Collection",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "ucdlib:hasLabel": {
+  "ucdlib:hasLabels": {
     "@id": "@base:/labels"
   },
   "schema:about": [
@@ -32,9 +32,9 @@
     "@value": "2019"
   },
   "schema:description": "This is the full repository for the Pioneering Punjabi Digital Archive, the most extensive collection of archival material documenting the first significant South Asian community in the United States. The collection includes over 1,300 photographs, rare archival films, letters, newspaper articles, songs, and audio interviews of South Asians who arrived in California from the Punjab region of north India beginning in the 1890s. \n\n The collection is curated by Dr. Nicole Ranganath, a historian, filmmaker, and faculty member in the UC Davis Middle East/South Asia Studies Program. The materials were contributed by Yuba City’s Punjabi American Heritage Society, Mrs. Manjeet Sibia, and numerous Punjabi American families and individuals. Mrs. Sibia’s contributions reflect the work by her late husband who was a UC Davis librarian, Tejinder (Ted) Sibia. The materials in this repository will be enhanced by visiting <https://pioneeringpunjabis.ucdavis.edu>, a more heavily curated subset of these materials that includes contextual scholarship and classroom tools. \n\n Permission policies for publication and reproduction: By granting permission to examine holdings, or by supplying a reproduction, the Library is not authorizing publication. The researcher must obtain permission to publish texts or facsimiles from the owner of the copyright, typically the author/creator, or the heirs to his or her estate. The users of materials with the department’s holdings are responsible for respecting the rights of authors/creators or their estates. Please write to Dr. Nicole Ranganath at <pioneeringpunjabis@ucdavis.edu> for inquiries regarding publication and reproduction or with other questions and comments. For other valuable online resources about Punjabi history, visit <http://www.punjabipioneers.com> and [Ted Sibia's legacy site](https://www.sikhpioneers.org/) .",
-  "schema:identifer": [ 
-    "D-643", 
-    "ark:/87293/d36q1sq39"
+  "schema:identifier": [
+    "ark:/87293/d36q1sq39",
+    "D-643"
   ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3t30x/media/images/d3t30x-1269.jpg"
@@ -45,14 +45,14 @@
   "schema:name": "Pioneering Punjabis Digital Archive",
   "schema:publisher": [
     {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "UC Davis Library, Archives and Special Collections"
     },
     {
-      "@id": "http://id.loc.gov/authorities/names/no2015121031"
-    },
-    "UC Davis Library, Archives and Special Collections",
-    "Middle East/South Asia Studies"
-  ],
+      "@id": "http://id.loc.gov/authorities/names/no2015121031",
+      "schema:name": "Middle East/South Asia Studies"
+    }
+   ],
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2019"
@@ -60,10 +60,8 @@
   "schema:sdLicense": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:sdPublisher": [
-    "UC Davis Library, Archives and Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  "schema:sdPublisher": {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707",
+      "schema:name": "UC Davis Library, Archives and Special Collections"
     }
-  ]
 }
