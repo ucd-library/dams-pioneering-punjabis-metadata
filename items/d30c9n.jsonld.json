@@ -41,7 +41,7 @@
     "D-643",
     "ark:/87293/d30c9n"
   ],
-  "schema:image": "@base:/d3d02x-1946.jpg",
+  "schema:image": "@base:/media/d3d02x-1946.jpg",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
