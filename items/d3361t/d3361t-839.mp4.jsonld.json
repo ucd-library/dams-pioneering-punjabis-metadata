@@ -15,5 +15,8 @@
   ],
   "schema:position": 839,
   "ebucore:filename": "d3361t-839.mp4",
+  "schema:image": {
+    "@id": "@base:../d3361t.png"
+  },
   "ebucore:hasMimeType": "video/mp4"
 }

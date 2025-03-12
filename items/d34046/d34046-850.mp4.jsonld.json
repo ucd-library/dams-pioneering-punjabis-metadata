@@ -15,5 +15,8 @@
   ],
   "schema:position": 850,
   "ebucore:filename": "d34046-850.mp4",
+  "schema:image": {
+    "@id": "@base:../d34046.png"
+  },
   "ebucore:hasMimeType": "video/mp4"
 }

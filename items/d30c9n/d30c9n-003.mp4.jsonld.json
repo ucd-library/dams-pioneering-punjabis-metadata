@@ -15,5 +15,6 @@
   ],
   "schema:position": "003",
   "ebucore:filename": "d30c9n-003.mp4",
+  "schema:image": "@base:../d3d02x-1946.jpg",
   "ebucore:hasMimeType": "video/mp4"
 }

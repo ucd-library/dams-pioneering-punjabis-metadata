@@ -15,5 +15,8 @@
   ],
   "schema:position": "003",
   "ebucore:filename": "d3xk5k-003.mp4",
+  "schema:image": {
+    "@id": "@base:../d3xk5k.png"
+  },
   "ebucore:hasMimeType": "video/mp4"
 }
