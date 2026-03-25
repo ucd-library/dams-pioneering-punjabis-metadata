@@ -27,5 +27,8 @@
   },
   "schema:name": "Certifications and Diplomas",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1935-1947"
+  "schema:temporal": "1935-1947",
+  "schema:image": {
+    "@id": "@base:/media/images/d30327-001.jpg"
+  }
 }

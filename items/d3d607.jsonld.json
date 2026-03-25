@@ -24,5 +24,8 @@
   },
   "schema:name": "Hari Singh Everest Poses with Child",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. Early 1960s"
+  "schema:temporal": "c. Early 1960s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3d607-1020.jpg"
+  }
 }

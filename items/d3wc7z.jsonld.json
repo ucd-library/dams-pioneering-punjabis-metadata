@@ -24,5 +24,8 @@
   },
   "schema:name": "Family Photo",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1950s"
+  "schema:temporal": "1950s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3wc7z-402.jpg"
+  }
 }

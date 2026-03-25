@@ -26,5 +26,8 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Sikh Man Portrait",
-  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3hk9c-2335.jpg"
+  }
 }

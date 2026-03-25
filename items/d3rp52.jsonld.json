@@ -27,5 +27,8 @@
   },
   "schema:name": "Sikh Parade, Panch Pyaras",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "early 1980"
+  "schema:temporal": "early 1980",
+  "schema:image": {
+    "@id": "@base:/media/images/d3rp52-210.jpg"
+  }
 }

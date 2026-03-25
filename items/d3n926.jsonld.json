@@ -26,5 +26,8 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Sikh Railroad Workers",
-  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3n926-2333.jpg"
+  }
 }

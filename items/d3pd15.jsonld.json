@@ -24,5 +24,8 @@
   },
   "schema:name": "Four Women",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1980s"
+  "schema:temporal": "c. 1980s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3pd15-829.jpg"
+  }
 }

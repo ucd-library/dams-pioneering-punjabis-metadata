@@ -27,5 +27,8 @@
   },
   "schema:name": "Darbara Singh Panu",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "Early 1950's"
+  "schema:temporal": "Early 1950's",
+  "schema:image": {
+    "@id": "@base:/media/images/d3ks3s-138.jpg"
+  }
 }

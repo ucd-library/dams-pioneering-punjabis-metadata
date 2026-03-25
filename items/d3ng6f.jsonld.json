@@ -24,5 +24,8 @@
   },
   "schema:name": "Hari Singh Everest School Portrait",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1980-1981"
+  "schema:temporal": "1980-1981",
+  "schema:image": {
+    "@id": "@base:/media/images/d3ng6f-001.jpg"
+  }
 }

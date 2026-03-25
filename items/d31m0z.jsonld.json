@@ -27,5 +27,8 @@
   },
   "schema:name": "Randhawa Family in Ludhiana",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1970s"
+  "schema:temporal": "1970s",
+  "schema:image": {
+    "@id": "@base:/media/images/d31m0z-2352.jpg"
+  }
 }

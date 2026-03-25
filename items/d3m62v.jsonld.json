@@ -24,5 +24,8 @@
   },
   "schema:name": "Geroge W. Pierce Jr.",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "December 10, 1850 - March 10, 1930"
+  "schema:temporal": "December 10, 1850 - March 10, 1930",
+  "schema:image": {
+    "@id": "@base:/media/images/d3m62v-009.jpg"
+  }
 }

@@ -24,5 +24,8 @@
   },
   "schema:name": "Jasbir Singh Kang and Man",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1980"
+  "schema:temporal": "c. 1980",
+  "schema:image": {
+    "@id": "@base:/media/images/d3gw48-001.jpg"
+  }
 }

@@ -27,5 +27,8 @@
   },
   "schema:name": "Narinder and Savitri Randhawa older at an event",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1980s"
+  "schema:temporal": "1980s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3ds6c-2346.jpg"
+  }
 }

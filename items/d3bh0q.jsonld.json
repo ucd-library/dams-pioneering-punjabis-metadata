@@ -24,5 +24,8 @@
   },
   "schema:name": "Dr. Johl with and without Turban",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1948 and 1952"
+  "schema:temporal": "1948 and 1952",
+  "schema:image": {
+    "@id": "@base:/media/images/d3bh0q-576.jpg"
+  }
 }

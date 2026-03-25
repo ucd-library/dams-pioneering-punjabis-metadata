@@ -24,5 +24,8 @@
   },
   "schema:name": "Singh New Fair Board President",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1980s"
+  "schema:temporal": "1980s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3192m-486.jpg"
+  }
 }

@@ -27,5 +27,8 @@
   },
   "schema:name": "Pritam Singh Vakil (Lawyer) and Ruth",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "Early 1950's"
+  "schema:temporal": "Early 1950's",
+  "schema:image": {
+    "@id": "@base:/media/images/d3g015-081.jpg"
+  }
 }

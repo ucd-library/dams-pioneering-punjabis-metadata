@@ -27,5 +27,8 @@
   },
   "schema:name": "Invitations",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1958-1970"
+  "schema:temporal": "1958-1970",
+  "schema:image": {
+    "@id": "@base:/media/images/d3fw26-001.jpg"
+  }
 }

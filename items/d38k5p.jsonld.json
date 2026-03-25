@@ -24,5 +24,8 @@
   },
   "schema:name": "Hari Singh Everest Stanford ID",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "Spring 1957"
+  "schema:temporal": "Spring 1957",
+  "schema:image": {
+    "@id": "@base:/media/images/d38k5p-1249.jpg"
+  }
 }

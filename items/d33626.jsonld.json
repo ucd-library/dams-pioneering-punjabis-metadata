@@ -27,5 +27,8 @@
   },
   "schema:name": "George W. Pierce Jr.'s Diary",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1907-1918"
+  "schema:temporal": "1907-1918",
+  "schema:image": {
+    "@id": "@base:/media/images/d33626-01.jpg"
+  }
 }

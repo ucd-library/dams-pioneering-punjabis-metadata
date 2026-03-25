@@ -32,5 +32,8 @@
   },
   "schema:name": "Khush Family Photograph",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1950"
+  "schema:temporal": "c. 1950",
+  "schema:image": {
+    "@id": "@base:/media/images/d3c017-276.jpg"
+  }
 }

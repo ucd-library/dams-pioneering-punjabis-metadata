@@ -24,5 +24,8 @@
   },
   "schema:name": "Family Portrait",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1970s"
+  "schema:temporal": "c. 1970s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3w33p-659.jpg"
+  }
 }

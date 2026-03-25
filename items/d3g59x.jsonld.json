@@ -23,5 +23,8 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Bharat Grocery Store",
-  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d3g59x-2320.jpg"
+  }
 }

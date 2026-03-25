@@ -27,5 +27,8 @@
   },
   "schema:name": "Tierra-Buena Sikh temple",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1980s"
+  "schema:temporal": "c. 1980s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3g30t-1177.jpg"
+  }
 }

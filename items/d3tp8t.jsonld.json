@@ -27,5 +27,8 @@
   },
   "schema:name": "Veena Singh side portrait",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1957"
+  "schema:temporal": "c. 1957",
+  "schema:image": {
+    "@id": "@base:/media/images/d3tp8t-385.jpg"
+  }
 }

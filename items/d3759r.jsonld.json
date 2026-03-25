@@ -32,5 +32,8 @@
   },
   "schema:name": "Gurdev Khush with Two Boys",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1950"
+  "schema:temporal": "c. 1950",
+  "schema:image": {
+    "@id": "@base:/media/images/d3759r-231.jpg"
+  }
 }

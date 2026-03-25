@@ -24,5 +24,8 @@
   },
   "schema:name": "Harbans Sekhon, Nurse",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "1980s"
+  "schema:temporal": "1980s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3n30c-356.jpg"
+  }
 }

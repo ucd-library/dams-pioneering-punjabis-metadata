@@ -32,5 +32,8 @@
   },
   "schema:name": "Gurdev Khush in Suit, Young",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. 1950"
+  "schema:temporal": "c. 1950",
+  "schema:image": {
+    "@id": "@base:/media/images/d33g6g-304.jpg"
+  }
 }

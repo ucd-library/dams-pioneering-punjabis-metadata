@@ -24,5 +24,8 @@
   },
   "schema:name": "Gathering with Hari Singh Everest",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
-  "schema:temporal": "c. Early 1980s"
+  "schema:temporal": "c. Early 1980s",
+  "schema:image": {
+    "@id": "@base:/media/images/d3vc81-1129.jpg"
+  }
 }

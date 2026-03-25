@@ -30,5 +30,8 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Congratulations to the Sikh Community on the 282nd Sacred Birthday of the Khalsa",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:image": {
+    "@id": "@base:/media/images/d34012-1799.jpg"
+  }
 }
