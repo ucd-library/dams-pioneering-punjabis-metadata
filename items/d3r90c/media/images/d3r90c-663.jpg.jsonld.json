@@ -9,7 +9,12 @@
     "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
   },
   "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
+  ],
+  "schema:position": 663,
   "ebucore:filename": "d3r90c-663.jpg",
-  "ebucore:hasMimeType": "image/jpeg",
-  "@type": []
+  "ebucore:hasMimeType": "image/jpeg"
 }
