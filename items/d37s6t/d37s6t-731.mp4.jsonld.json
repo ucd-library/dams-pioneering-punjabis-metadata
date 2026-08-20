@@ -13,9 +13,9 @@
     "schema:VideoObject",
     "schema:CreativeWork"
   ],
-  "ebucore:filename": "d37s6t-731.mpg",
+  "ebucore:filename": "d37s6t-731.mp4",
   "schema:image": {
     "@id": "@base:../d37s6t-731.png"
   },
-  "ebucore:hasMimeType": "video/mpeg"
+  "ebucore:hasMimeType": "video/mp4"
 }
