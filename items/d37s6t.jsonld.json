@@ -11,14 +11,13 @@
   "@id": "",
   "@type": [
     "schema:CreativeWork",
-    "schema:Conversation",
-    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+    "schema:Conversation"
   ],
   "schema:about": {
     "@id": "http://id.worldcat.org/fast/0908690"
   },
   "schema:associatedMedia": {
-    "@id": "@base:/d37s6t-731.mpg"
+    "@id": "@base:/d37s6t-731.mp4"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
